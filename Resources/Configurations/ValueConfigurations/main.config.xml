@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <appSettings>
+        <add key="VoskLogLevel" value="-1"/>
+        <add key="AudioInSampleRate" value="16000"/>
+        <add key="SelectedInputDevice" value="0"/>
+        <add key="PorcupineAccessKey" value=""/>
+    </appSettings>
+</configuration>
